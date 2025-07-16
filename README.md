@@ -13,6 +13,10 @@ I created custom objects like Products, Inventory, Orders, and Customers to simu
 
 It’s all built inside the Salesforce Lightning platform using standard tools like Object Manager, App Builder, and record pages.
 
+---> Demo Video
+
+ Watch the demo here:  YouTube Demo Link – https://youtu.be/ttuiXITlXQo?si=B4vwktXNDJsTlQdI
+ 
 ---> Screenshots
 
 
