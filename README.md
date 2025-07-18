@@ -81,7 +81,7 @@ If you want to try this project yourself:
 
 Sumit Patel
 Salesforce Intern  
-Email: [patelsumit55286324@agentforce.com](mailto:patelsumit55286324@agentforce.com)
+Email: [patelsumit55286@gmail.com](mailto:patelsumit55286@gmail.com)
 
 --->  Note
 
