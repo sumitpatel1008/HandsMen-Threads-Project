@@ -30,6 +30,11 @@ It’s all built inside the Salesforce Lightning platform using standard tools l
 <img width="400" height="200" alt="Screenshot 2025-07-16 153551" src="https://github.com/user-attachments/assets/a3874b77-7f63-448e-a7be-af53e4076074" />
 <img width="400" height="200" alt="Screenshot 2025-07-16 153600" src="https://github.com/user-attachments/assets/724c91e0-71bd-4368-bb54-613f948249af" />
 <img width="400" height="200" alt="Screenshot 2025-07-16 154808" src="https://github.com/user-attachments/assets/03b61ec7-c7d6-4d6a-9531-1f1d909f335f" />
+<img width="400" height="200" alt="Screenshot 2025-07-19 152846" src="https://github.com/user-attachments/assets/069244bb-2c11-49e3-be3e-44c5275361d1" />
+<img width="400" height="200" alt="Screenshot 2025-07-19 152846" src="https://github.com/user-attachments/assets/88e4163e-6f90-4610-854a-1891c13bcd8a" />
+<img width="400" height="200" alt="Screenshot 2025-07-19 152846" src="https://github.com/user-attachments/assets/53ec3c38-4243-4a48-be7b-7d6703fe2287" />
+
+
 
 
 Here are some screenshots from the project to give you an idea of what it looks like inside Salesforce:
